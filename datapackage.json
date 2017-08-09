@@ -171,13 +171,13 @@
     },
     "expected_number_of_geographies": {
 		  "ckan_name": "Expected Number of Unique Geographies",
-		  "value": 170,
+		  "value": 171,
 		  "type": "string"
 		},     
     "default": {      
       "ckan_name": "Default",
 			"value": {
-		 		"County": "Hartford",
+		 		"Town": "Hartford",
 		 		"Year": ["2014"],
 		 		"Variable": "Fetal Mortality", 
 		 		"Race": "All"
